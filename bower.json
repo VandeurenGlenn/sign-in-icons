@@ -1,0 +1,28 @@
+{
+  "name": "sign-in-icons",
+  "version": "0.0.1",
+  "authors": [
+    "Glenn Vandeuren <vandeurenglenn@gmail.com>"
+  ],
+  "description": "An set of sign in icons.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "sign-in-icons.html",
+  "license": "http://vandeurenglenn.github.io/LICENSE.txt",
+  "homepage": "https://github.com/vandeurenglenn/sign-in-icons/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#~1.0.9"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-icon": "PolymerElements/iron-icon#~1.0.7"
+  }
+}
